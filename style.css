@@ -1,0 +1,34 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #d69829;
+}
+
+#project {
+  background-color: #d69829;
+}
+
+.btn {
+  background-color: #d69829;
+}
+
+.alert {
+  background-color: #d69829;
+  color: white;
+}
+
+.btn:hover {
+  background-color: #292929;
+  color: white;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.gallery-img {
+  width: 100%;
+}
